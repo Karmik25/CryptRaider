@@ -43,7 +43,7 @@ You can pick up certain objects by **holding the 'F' key**, and **release the 'F
 
 | | |
 |:--|:--|
-| ![Crypt Center](../mnt/data/Screenshot%202025-04-21%20205831.png) | The central crypt room housing the sacred statue |
+| ![Crypt Raider Screenshot](https://drive.google.com/uc?id=1UKiyWmmRZWw3CjALSuGPDMMSHNtzpTJ3)| The central crypt room housing the sacred statue |
 | ![Crypt View 2](../mnt/data/Screenshot%202025-04-21%20205852.png) | The view towards the gate that locks after picking the statue |
 | ![Statue Close-up](../mnt/data/Screenshot%202025-04-21%20205917.png) | Close-up of the player holding the statue |
 | ![Dungeon Corridor](../mnt/data/Screenshot%202025-04-21%20210017.png) | Mysterious corridors leading out of the crypt |
