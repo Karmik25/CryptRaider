@@ -1,12 +1,15 @@
 # Crypt Raider - Game ReadMe
 
 ## 🕹️ About the Game
-Crypt Raider is an intense, atmospheric puzzle-adventure game set inside an ancient underground crypt. The objective is simple but thrilling: retrieve the valuable **statue** from the crypt and escape without getting locked inside!
+Crypt Raider is an intense, atmospheric puzzle-adventure game set deep within the heart of an ancient underground crypt. The environment is filled with hidden corridors, ancient prison cells, and a haunting sense of mystery and danger.
 
-Once the player picks up the statue, **the main gate automatically locks down**. Players must act quickly and use their environment wisely to avoid being trapped forever.
+The main objective sounds simple but carries an adrenaline rush: retrieve the valuable statue placed atop a stone pedestal at the center of the crypt and find your way out — all while avoiding getting permanently sealed inside.
 
-You can pick up certain objects by **holding the 'F' key**, and **release the 'F' key** to drop them. Strategically placing objects can help trigger mechanisms or prevent doors from closing.
+Upon lifting the statue, the massive main gate slams shut, cutting off the obvious exit. This sudden change transforms the quiet crypt into a thrilling race against time. Players must act quickly, stay calm under pressure, and use their surroundings creatively to avoid entrapment.
 
+A key part of the gameplay is physics-based object interaction. By holding the 'F' key, players can grab nearby objects like stones, crates, and relics. Releasing the 'F' key drops them precisely. These objects can be used to block door mechanisms, trick pressure plates, or weigh down ancient levers — offering clever ways to reopen your escape path.
+
+Crypt Raider demands not only quick reflexes but also smart problem-solving skills under intense, atmospheric pressure.
 ---
 
 ## 🔮 Features
