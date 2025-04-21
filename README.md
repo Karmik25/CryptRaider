@@ -10,6 +10,7 @@ Upon lifting the statue, the massive main gate slams shut, cutting off the obvio
 A key part of the gameplay is physics-based object interaction. By holding the 'F' key, players can grab nearby objects like stones, crates, and relics. Releasing the 'F' key drops them precisely. These objects can be used to block door mechanisms, trick pressure plates, or weigh down ancient levers — offering clever ways to reopen your escape path.
 
 Crypt Raider demands not only quick reflexes but also smart problem-solving skills under intense, atmospheric pressure.
+
 ---
 
 ## 🔮 Features
