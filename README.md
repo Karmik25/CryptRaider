@@ -44,11 +44,11 @@ You can pick up certain objects by **holding the 'F' key**, and **release the 'F
 | | |
 |:--|:--|
 | ![Crypt Raider Screenshot](https://drive.google.com/uc?id=1UKiyWmmRZWw3CjALSuGPDMMSHNtzpTJ3)| The central crypt room housing the sacred statue |
-| ![Crypt View 2](../mnt/data/Screenshot%202025-04-21%20205852.png) | The view towards the gate that locks after picking the statue |
-| ![Statue Close-up](../mnt/data/Screenshot%202025-04-21%20205917.png) | Close-up of the player holding the statue |
-| ![Dungeon Corridor](../mnt/data/Screenshot%202025-04-21%20210017.png) | Mysterious corridors leading out of the crypt |
-| ![Prison Cells](../mnt/data/Screenshot%202025-04-21%20210043.png) | Ancient prison section near the gate |
-| ![Cell Interior](../mnt/data/Screenshot%202025-04-21%20210113.png) | Inside the prison block, routes to freedom |
+| [![Crypt View 2](../mnt/data/Screenshot%202025-04-21%20205852.png) ](https://drive.google.com/file/d/187XAkWfgV5fcn0RzfTF-Lp_mCL4O1zgI/view?usp=sharing)| The view towards the gate that locks after picking the statue |
+| [![Statue Close-up](../mnt/data/Screenshot%202025-04-21%20205917.png) ](https://drive.google.com/file/d/1EPeDfreEV39LgCP_b26TVmBr8J_rEjyX/view?usp=sharing)| Close-up of the player holding the statue |
+| [![Dungeon Corridor](../mnt/data/Screenshot%202025-04-21%20210017.png)](https://drive.google.com/file/d/1YiBq2UX07Pdi18L-1eohmwL9-97dzd1g/view?usp=sharing) | Mysterious corridors leading out of the crypt |
+| [![Prison Cells](../mnt/data/Screenshot%202025-04-21%20210043.png) ](https://drive.google.com/file/d/1N3pzttg_NuKAW-9UKZmXwd_FwYFpmz_x/view?usp=sharing)| Ancient prison section near the gate |
+| [![Cell Interior](../mnt/data/Screenshot%202025-04-21%20210113.png) ](https://drive.google.com/file/d/1AxAnkIh9hATuom3-l7189vzGQKiF6F6s/view?usp=sharing)| Inside the prison block, routes to freedom |
 
 ---
 
