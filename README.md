@@ -1,4 +1,4 @@
-# Crypt Raider - Game ReadMe
+# Crypt Raider
 
 ## 🕹️ About the Game
 Crypt Raider is an intense, atmospheric puzzle-adventure game set deep within the heart of an ancient underground crypt. The environment is filled with hidden corridors, ancient prison cells, and a haunting sense of mystery and danger.
