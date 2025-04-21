@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/karmi/unreal engine/MyProject/Content/Dungein.umap",
+				"C:/Users/karmi/unreal engine/MyProject/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/BP_FirstPersonCharacter.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/BP_CryptRaiderGameMode.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPerson/Blueprints/BP_childNode.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/BP_SecretWall.uasset",
+				"C:/Users/karmi/unreal engine/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+			]
+		}
+	]
+}
