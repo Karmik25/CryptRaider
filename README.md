@@ -74,10 +74,7 @@ Crypt Raider demands not only quick reflexes but also smart problem-solving skil
 
 ---
 
-## 🌐 Credits
-- Level Design: [Your Name]
-- 3D Models and Assets: [Your Name or Source if from Marketplace]
-- Development: [Your Name]
+
 
 
 > "Escape, or be entombed forever beneath the crypt's cursed stones..."
